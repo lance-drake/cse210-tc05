@@ -34,4 +34,5 @@ root                    (project root folder)
 
 ## Authors
 ---
+- Lance Drake - dra15006@byui.edu
 * TODO: Add your names and emails here
