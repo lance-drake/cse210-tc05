@@ -1,7 +1,6 @@
 class Director:
-    self.guess=[]
-    self.word=''
-    
+''''''
+
     def __init__(self):
         self.guess=[]
         self.word=''
