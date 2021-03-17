@@ -1,5 +1,7 @@
 class Director:
-''''''
+    '''
+    Director Class
+    '''
 
     def __init__(self):
         self.guess=[]
@@ -9,7 +11,7 @@ class Director:
         pass
 
 
-    def find(self, guess):
+    def find_index(self, guess):
         self.guess.append(guess)
         return [i for i, ltr in enumerate(self.word) if ltr == guess]
 
